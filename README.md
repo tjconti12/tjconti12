@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Make Your Own Tile Map with Vanilla Javascript](https://medium.com/geekculture/make-your-own-tile-map-with-vanilla-javascript-a627de67b7d9?source=rss-8721c96440d9------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
