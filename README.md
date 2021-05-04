@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/tjconti12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/codepen.svg" alt="tjconti12" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/in/tylerjconti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="in/tylerjconti/" height="30" width="40" /></a>
-<a href="https://medium.com/@tjconti12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/medium.svg" alt="@tjconti12" height="30" width="40" /></a>
+<a href="https://codepen.io/tjconti12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="tjconti12" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tylerjconti/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="in/tylerjconti/" height="30" width="40" /></a>
+<a href="https://medium.com/@tjconti12" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" alt="@tjconti12" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
