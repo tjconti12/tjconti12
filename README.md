@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi, I'm Tyler</h1>
 <h3 align="center">Software Developer with an interest in new technologies, learning, science and aviation.</h3>
 
-- 📝 Checkout my Article on Medium [https://medium.com/geekculture/make-your-own-tile-map-with-vanilla-javascript-a627de67b7d9](https://medium.com/geekculture/make-your-own-tile-map-with-vanilla-javascript-a627de67b7d9)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
